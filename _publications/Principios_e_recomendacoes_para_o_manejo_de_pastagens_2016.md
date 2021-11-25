@@ -1,7 +1,7 @@
 ---
 title: "Princípios e recomendações para o manejo de pastagens"
 collection: publications
-permalink: /publications/Principios_e_recomendacoes_para_o_manejo_de_pastagens_2016.md
+permalink: /publication/Principios_e_recomendacoes_para_o_manejo_de_pastagens_2016.md
 date: 04-07-2016
 venue: '<span style="color:#B10E06">PRCEU Pró‐reitoria de cultura e extensão universitária.</span>'
 
