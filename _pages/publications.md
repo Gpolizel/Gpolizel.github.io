@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Peer-reviewed Publications
-  ## Articles
+## Articles
 
 <b>[Effects of different maternal nutrition approaches on weight gain and on adiposeand muscle tissue development of young bulls in rearing phase.](https://doi.org/10.1007/s11250-021-02982-y)</b> <b>POLIZEL, GHG</b>; STREFEZZI, RF; CRACCO, RC; FERNANDES, AC; ZUCA, CB; CASTELLAR, HH; BALDIN, GC; SANTANA, MHA.,(2021) <i><span style="color:#B10E06">Tropical Animal Health and Production.</span></i>
 
