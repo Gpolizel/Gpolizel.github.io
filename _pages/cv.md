@@ -68,7 +68,14 @@ Publications
   
   Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  ## Classes 
+
+### São Paulo University
+
+* 2021 - Bioinformatics - Discipline: Nutrigenomics in animal production - Animal science Undergraduate course
+* 2021 - Transcription Factors - Discipline: Nutrigenomics in animal production - Animal science Undergraduate course
+* 2021 - Health management in beef cattle - Discipline: Beef cattle -Animal science Undergraduate course
+* 2020 - Health management in beef cattle - Discipline: Beef cattle - Animal science Undergraduate course
+* 2020 - Transcription Factors - Discipline: Nutrigenomics in animal production - Animal science Undergraduate course
+
 
