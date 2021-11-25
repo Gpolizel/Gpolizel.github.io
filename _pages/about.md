@@ -15,14 +15,14 @@ Hello! I'm Guilherme, a doctor of veterinary medicine, MSc. in animal bioscience
 Research interests
 ======
 
- * <b> Animal production </b>
- * <b> Biotechnology </b>
- * <b> Bioinformatics </b>
- * <b> Biostatistics </b>
- * <b> Data Science </b>
- * <b> Molecular Biology </b>
- * <b> Omics Sciences </b>
- * <b> Systems Biology </b>
+ *  Animal production 
+ *  Biotechnology 
+ *  Bioinformatics 
+ *  Biostatistics 
+ *  Data Science 
+ *  Molecular Biology 
+ *  Omics Sciences 
+ *  Systems Biology 
  
  
 
