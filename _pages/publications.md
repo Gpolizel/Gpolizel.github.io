@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Peer-reviewed Publications
-## Articles
+### Articles
 
 <b>[Effects of different maternal nutrition approaches on weight gain and on adiposeand muscle tissue development of young bulls in rearing phase.](https://doi.org/10.1007/s11250-021-02982-y)</b> <b>POLIZEL, GHG</b>; STREFEZZI, RF; CRACCO, RC; FERNANDES, AC; ZUCA, CB; CASTELLAR, HH; BALDIN, GC; SANTANA, MHA.,(2021) <i><span style="color:#B10E06">Tropical Animal Health and Production.</span></i>
 
@@ -18,6 +18,6 @@ author_profile: true
 <b>[Genetic correlations and heritability estimates for dry matter intake, weight gain and feed efficiency of Nellore cattle in feedlot.](https://doi.org/10.1016/j.livsci.2018.06.013)</b> <b>POLIZEL, GHG</b>; GRIGOLETTO, L ; CARVALHO, ME ; ROSSI JUNIOR, P ; FERRAZ, JBS ; SANTANA, MHA. (2018) <i><span style="color:#B10E06">Livestock Science</span></i>
 
 
-## BOOK
+### Book
 
 <b>[Princípios e recomendações para o manejo de pastagens.](http://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/122/103/522)</b> PEREIRA, LET. ;<b>POLIZEL, GHG</b>.(2016) <i><span style="color:#B10E06">PRCEU Pró‐reitoria de cultura e extensão universitária.</span></i>
