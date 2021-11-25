@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Francisco José de Novais"
+title                    : "Guilherme Henrique Gebim Polizel"
 title_separator          : "-"
-name                     : &name "Francisco José de Novais"
+name                     : &name "Guilherme Henrique Gebim Polizel"
 description              : &description "personal description"
-url                      : https://fjnovais.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gpolizel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fjnovais.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "novaisfj"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -78,34 +78,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Francisco José de Novais"
+  name             : "Guilherme Henrique Gebim Polizel"
   avatar           : "profile.png"
-  bio              : "Animal scientist,MSc. PhD., System Biology & Multi-omics"
+  bio              : "DVM.,MSc., Systems Biology & Multi-omics"
   location         : "Pirassununga, São Paulo, Brazil"
-  employer         : "University of São Paulo"
-  googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=LuY8B20AAAAJ"
-  email            : "francisco.novais@usp.br"
-  researchgate     : "https://www.researchgate.net/profile/Francisco_Novais"
-  uri              : "http://lattes.cnpq.br/4454888083099051"
+  employer         : "São Paulo University"
+  googlescholar    : "https://scholar.google.com.br/citations?user=TYbKQWwAAAAJ&hl=pt-BR&oi=ao"
+  email            : "guilhermepolizel875@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Guilherme-Polizel"
+  uri              : "http://lattes.cnpq.br/9436361347505110"
   bitbucket        :
-  lattes           : "http://lattes.cnpq.br/4454888083099051"
+  lattes           : "http://lattes.cnpq.br/9436361347505110"
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fjnovais"
+  github           : "gpolizel"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "francisco-novais-953b6678/"
-  orcid            : "https://orcid.org/0000-0003-2487-8523"
+  linkedin         : "https://www.linkedin.com/in/guilherme-polizel/"
+  orcid            : "https://orcid.org/0000-0002-8497-9898"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -185,10 +185,7 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-  hobbies:
-    output: true
-    permalink: /:collection/:path/
-
+ 
 # Defaults
 defaults:
   # _posts
