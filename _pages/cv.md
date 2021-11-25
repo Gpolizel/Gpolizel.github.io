@@ -68,9 +68,9 @@ Publications
   
   Teaching
 ======
-  ## Classes 
+  ### Classes 
 
-### São Paulo University
+#### São Paulo University
 
 * 2021 - Bioinformatics - Discipline: Nutrigenomics in animal production - Animal science Undergraduate course
 * 2021 - Transcription Factors - Discipline: Nutrigenomics in animal production - Animal science Undergraduate course
