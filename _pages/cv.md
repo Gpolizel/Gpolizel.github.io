@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* <b>PhD., Animal Bioscience</b>, University of São Paulo - Pirassununga.
+* <b>PhD., Animal Bioscience</b>, University of São Paulo - Pirassununga.(2021-Ongoing)
   * Dissertation: "Use of systems biology tools to assess the effects of fetal programming in beef cattle".
   * Advisor: Dr. Miguel Henrique de Almeida Santana.
   
-* <b>MBA., Data Science and Analytics</b>, University of São Paulo-Piracicaba
+* <b>MBA., Data Science and Analytics</b>, University of São Paulo - Piracicaba. (2021-Ongoing)
   * Thesis: "Ongoing".
   * Advisor: Ongoing. 
   
