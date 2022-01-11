@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>PhD., Animal Bioscience</b>, University of São Paulo - Pirassununga.(2021-Ongoing)
+* <b>PhD., Animal Bioscience</b>, University of São Paulo - Pirassununga.(2022-Ongoing)
   * Dissertation: "Use of systems biology tools to assess the effects of fetal programming in beef cattle".
   * Advisor: Dr. Miguel Henrique de Almeida Santana.
   
@@ -28,9 +28,9 @@ Education
 
 Work experience
 ======
-<b>December 2021 - Ongoing</b>: Graduate Research Assistant (PhD)
+<b>January 2022 - Ongoing</b>: Graduate Research Assistant (PhD)
   * Department of Animal Science, FZEA/USP
-  * Grant: Ongoing
+  * Grant: FAPESP
   * Advisor: Dr. Miguel Henrique de Almeida Santana
   * My PhD research focus on Multi‐omics Data integration (Systems Biology approach) methods applied to fetal programming in Nellore cattle.
   
